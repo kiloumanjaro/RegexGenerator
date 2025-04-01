@@ -32,7 +32,6 @@ Kleene Star: The * allows repetition of the preceding expression 0 or more times
 
 ### Input Example
 
-    cpp
     4
     1
     1 5 7 8
